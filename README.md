@@ -9,13 +9,12 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](website)
-[![website](./img/globe-dark.svg)](website)
+[![website](./img/globe-light.svg)](https://www.rahuljk.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.rahuljk.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](linkedin#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](linkedin#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rahul-j-krishnan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rahul-j-krishnan#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 [website]: https://www.rahuljk.com/
 [qburstwebsite]: https://www.qburst.com/
-[linkedin]: https://www.linkedin.com/in/rahul-j-krishnan
