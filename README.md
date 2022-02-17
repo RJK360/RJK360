@@ -37,6 +37,9 @@
 [<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />](https://www.jenkins.io/)
 
 <br />
+<br />
+
+---
 
 ### Latest Blog Posts:
 
