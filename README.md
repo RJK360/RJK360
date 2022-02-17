@@ -1,10 +1,9 @@
-# Hey, I'm [Rahul J Krishnan](website) 👋
+# Hey, I'm [Rahul J Krishnan](https://www.rahuljk.com) 👋
 
 - 🧑‍💻 Full Stack Developer and Designer
 - 🌴 Hailing from Kochi, Kerala, India
-- 💼 Engineer at [QBurst](qburstwebsite)
+- 💼 Engineer at [QBurst](https://www.qburst.com)
 - 💬 Ask me about Angular, React, and Node.js
-- 📈 Learn Web 3.0 Technologies
 - ❤️ I like cars, bikes, and tech
 
 ### Get in Touch with me:
@@ -14,11 +13,13 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rahul-j-krishnan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rahul-j-krishnan#gh-dark-mode-only)
-&nbsp;&nbsp;
+
+<br />
+<br />
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -44,6 +45,3 @@
 - [Dark Mode in Next.js Application with Tailwind CSS](https://genrater.rahuljk.com/post/nextjs-tailwind-dark-mode)
 - [Styling CMS Content with Tailwind CSS](https://genrater.rahuljk.com/post/cms-content-with-tailwindcss)
 <!-- BLOG-POST-LIST:END -->
-
-[website]: https://www.rahuljk.com/
-[qburstwebsite]: https://www.qburst.com/
