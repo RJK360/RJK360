@@ -3,10 +3,10 @@
 - 🧑‍💻 Full Stack Developer and Designer
 - 🌴 Hailing from Kochi, Kerala, India
 - 💼 Engineer at [QBurst](https://www.qburst.com)
-- 💬 Ask me about Angular, React, and Node.js
+- 💬 I can help you with Angular, React, or Node.js
 - ❤️ I like cars, bikes, and tech
 
-### Get in Touch with me:
+### Connect with me:
 
 [![website](./img/globe-light.svg)](https://www.rahuljk.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.rahuljk.com#gh-dark-mode-only)
@@ -14,7 +14,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rahul-j-krishnan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rahul-j-krishnan#gh-dark-mode-only)
 
-### Technologies:
+### Technologies I have worked with:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -36,7 +36,7 @@
 
 ---
 
-### Latest Blog Posts:
+### My top blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploying Application with Custom Domain through Vercel](https://genrater.rahuljk.com/post/custom-domain-deploy-vercel)
