@@ -2,8 +2,8 @@
 
 - 🧑‍💻 Full Stack Developer and Designer
 - 🌴 Hailing from Kochi, Kerala, India
-- 💼 Engineer at [QBurst](https://www.qburst.com)
-- 💬 I can help you with Angular, React, or Node.js
+- 💼 Senior Engineer at [QBurst](https://www.qburst.com)
+- 💬 I can help you with Angular, React, and Node.js
 - ❤️ I like cars, bikes, and tech
 
 ### Connect with me:
